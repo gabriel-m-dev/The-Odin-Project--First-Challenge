@@ -191,7 +191,7 @@ h1 {
 .box-bg {
     width: 200px;
     height: 250px;
-    background-image: url(../images/22.jpg);
+    background-image: url(/images/messi-fing.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -212,34 +212,35 @@ h1 {
 }
 
 .bg--2 {
-    background-image: url(../images/23.jpg);
+    background-image: url(/images/messi3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg--3 {
-    background-image: url(/images/24.jpg);
+    background-image: url(/images/messi-kiss-wc.jpg);
+    background-position: bottom;
 }
 
 .bg--4 {
-    background-image: url(/images/25.png);
+    background-image: url(/images/messi-ca.jpg);
 }
 
 .bg--5 {
-    background-image: url(/images/26.jpg);
+    background-image: url(/images/messi-goal.jpg);
 }
 
 .bg--6 {
-    background-image: url(/images/6.jpg);
+    background-image: url(/images/messi8.jpg);
     background-size: cover;
 }
 
 .bg--7 {
-    background-image: url(/images/septimo.png);
+    background-image: url(/images/messi4.jpg);
 }
 
 .bg--8 {
-    background-image: url(/images/8.jpg);
+    background-image: url(/images/messi-wc.jpg);
 }
 
 /*-///----------QUOTE SECTION--*/
